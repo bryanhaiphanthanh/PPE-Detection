@@ -7,8 +7,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/github_username/repo_name">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/bryanhaiphanthanh/PPE-Detection">
+    <img src="images/color-mask.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">PPE Detection Software</h3>
@@ -113,8 +113,9 @@ Distributed under the Apache License 2.0. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Hai Thanh Phan - phan8640@mylaurier.ca
-
+Hai Thanh Phan
+Email - phan8640@mylaurier.ca
+LinkedIn - https://www.linkedin.com/in/bryan-hai-thanh-phan/
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 
