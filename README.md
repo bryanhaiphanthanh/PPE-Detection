@@ -115,10 +115,6 @@ Distributed under the Apache License 2.0. See `LICENSE` for more information.
 
 Hai Thanh Phan - phan8640@mylaurier.ca
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
-
-
-
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 
@@ -130,9 +126,9 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[issues-shield]: https://img.shields.io/github/issues/bryanhaiphanthanh/repo.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/bryanhaiphanthanh/PPE-Detection.svg?style=for-the-badge
 [issues-url]: https://github.com/bryanhaiphanthanh/PPE-Detection/issues
-[license-shield]: https://img.shields.io/github/license/bryanhaiphanthanh/repo.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/bryanhaiphanthanh/PPE-Detection.svg?style=for-the-badge
 [license-url]: https://github.com/bryanhaiphanthanh/PPE-Detection/blob/main/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/bryan-hai-thanh-phan/
