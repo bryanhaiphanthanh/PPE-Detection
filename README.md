@@ -58,7 +58,7 @@ PPE Detector provides a cheap and easy-to-install solution for organizations to 
 * AWS S3 Simple Storage Service
 * AWS Rekognition 
 * Python
-<br>
+
 ### Requirement
 
 * The software is currently designed to work on MacOS only due different in Python packages between Windows and MacOS verions of Python. Particularly, User Interface packages available for Windows are not available for MacOS. However, aside from UI, the other functions are exactly the same between MacOS and Window.
