@@ -34,8 +34,6 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgements">Acknowledgements</a></li>
@@ -46,10 +44,6 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-<!-- 
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`github_username`, `repo_name`, `twitter_handle`, `email`, `project_title`, `project_description` -->
 
 PPE Detector provides a cheap and easy-to-install solution for organizations to enforce their mask-wearing policy. PPE Detector accepts a photo as an input, then calculate whether everyone in the photos are wearing proper facial protection.
 
@@ -77,19 +71,6 @@ Then, add AmazonS3FullAccess and AmazonRekognitionFullAccess policies to the use
 Finally, enter your AWS User credentials into `utils.py`. Replace the "XXXX" sections with your credentials.
  ![image](images/aws-cred.png) </br> </br>
 
-<!-- * npm
-  ```sh
-  npm install npm@latest -g
-  ``` -->
-<!-- 1. Clone the repo
-   ```sh
-   git clone https://github.com/github_username/repo_name.git
-   ```
-2. Install NPM packages
-   ```sh
-   npm install
-   ``` -->
-
 <!-- USAGE EXAMPLES -->
 ## Usage
 Since the program is still in pre-alpha development, a developer environment is required to execute. In this demo, I will be using Visual Studio Code.
@@ -101,12 +82,11 @@ After establishing the connection, you can run the program with the following st
 ![image](images/aws-face-negative.png) </br> </br>
 4. If not, the square will be red. And if the software cannot detect, it will be yellow.
 ![image](images/aws-face-mixed.png) </br> </br>
-<!-- _For more examples, please refer to the [Documentation](https://example.com)_ -->
 
 <!-- LICENSE -->
 ## License
 
-Distributed under the Apache License 2.0. See `LICENSE` for more information.
+Distributed under the Apache License 2.0. See [`LICENSE`]([license-url]) for more information.
 
 
 
@@ -114,7 +94,7 @@ Distributed under the Apache License 2.0. See `LICENSE` for more information.
 ## Contact
 
 Hai Thanh Phan
-Email - phan8640@mylaurier.ca
+Email - phan8640@mylaurier.ca </br>
 LinkedIn - https://www.linkedin.com/in/bryan-hai-thanh-phan/
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
