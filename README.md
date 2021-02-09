@@ -60,6 +60,7 @@ PPE Detector provides a cheap and easy-to-install solution for organizations to 
 * Python
 <br>
 ### Requirement
+
 * The software is currently designed to work on MacOS only due different in Python packages between Windows and MacOS verions of Python. Particularly, User Interface packages available for Windows are not available for MacOS. However, aside from UI, the other functions are exactly the same between MacOS and Window.
 Therefore, I have given this program a complete open-source license in order to encourage aspiring developers to contribute to it. <u>You are fully authorized to obtain a copy, modify and redistribute this program and its derivatives. Please see </u>Please see [LICENSE](LICENSE.txt) for full details.
 
