@@ -1,5 +1,5 @@
 [![Issues][issues-shield]][issues-url]
-[![License][license-shield]][license-url]
+[![APACHE License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
