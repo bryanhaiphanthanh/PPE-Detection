@@ -86,7 +86,7 @@ After establishing the connection, you can run the program with the following st
 <!-- LICENSE -->
 ## License
 
-Distributed under the Apache License 2.0. See [`LICENSE`](license-url) for more information.
+Distributed under the Apache License 2.0. See [`LICENSE`](https://github.com/bryanhaiphanthanh/PPE-Detection/blob/main/LICENSE.txt) for more information.
 
 
 
